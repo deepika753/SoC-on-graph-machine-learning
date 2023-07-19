@@ -8,5 +8,4 @@ WEEK 1: revised Python basics and some important Python libraries numpy, pandas,
 #Watched Stanford CS224W -Graph Machine Learning Playlist and reviewed the blogs.
 #week4: gone through graph neural networks and graph convolution networks
 #week5: graph attention mechanisms
-# 
 week 6:transformers and working on graph attention networks project
